@@ -1,6 +1,6 @@
 ## 👋 Hey everyone, I'm Marius
 
-![](https://github.com/Codecritics/)
+![](https://github.com/Codecritics/Codecritics/blob/main/Images/Codecritics_board.png?raw=true)
 
 ### Some fun facts about me:
 I'm tall, and I can't help myself with cakes.
