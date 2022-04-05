@@ -18,6 +18,7 @@ I love videos games especially because I consider it as one of the top opportuni
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Codecritics&theme=tokyonight" width="700">
 
 ### Watch my contribution graph get eaten by the snake 🐍
-
+I created this account in 2014. Since then, I have mostly been using Bitbucket and Gitlab. Back in 2022 I decided 
+to put more effort into Github contributions.
 <!-- platane/snk works, it just puts it on a new branch -->
 ![codecritics snake gif](https://github.com/Codecritics/Codecritics/blob/output/github-contribution-grid-snake.svg)
