@@ -20,4 +20,4 @@ I love videos games especially because I consider it as one of the top opportuni
 ### Watch my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![codecritics snake gif](https://github.com/mishmanners/Codecritics/blob/output/github-contribution-grid-snake.svg)
+![codecritics snake gif](https://github.com/Codecritics/Codecritics/blob/output/github-contribution-grid-snake.svg)
