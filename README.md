@@ -4,7 +4,7 @@
 
 ### Some fun facts about me:
 I'm tall, and I can't help myself with cakes.
-Proud of my merge african and french legacy. 
+Proud of my merge african/french legacy. 
 I'm here because I'm curious and if you are here too, I guess that's something we have in common.
 I love videos games especially because I consider it as one of the top opportunities to mix art and engineering.
 
