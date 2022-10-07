@@ -4,14 +4,14 @@
 
 ### Some fun facts about me:
 I'm tall, and I can't help myself with cakes.
-Proud of my merged african/french legacy. 
-I'm here because I'm curious and if you are here too, I guess that's something we have in common.
-I love videos games especially because I consider it as one of the top opportunities to mix art and engineering.
+Proud of my merged African/French legacy. 
+I'm here because I'm curious, and if you are here too, I guess that's something we have in common.
+I love video games, mainly because I consider them as one of the top opportunities to mix art and engineering.
 
 ### My favorite topics:
 - Competitive programming
 - Automation
-- Distributed Systems (Chaos vs Order)
+- Distributed Systems (Chaos vs. Order)
 
 ### GitHub Stats:
 
