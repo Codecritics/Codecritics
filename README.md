@@ -21,4 +21,8 @@ I love video games, mainly because I consider them as one of the top opportuniti
 I created this account in 2014. Since then, I have mostly been using Bitbucket and Gitlab. Back in 2022 I decided 
 to put more effort into Github contributions.
 <!-- platane/snk works, it just puts it on a new branch -->
-![codecritics snake gif](https://github.com/Codecritics/Codecritics/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
